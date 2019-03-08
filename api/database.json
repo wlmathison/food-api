@@ -4,42 +4,49 @@
       "id": 1,
       "name": "Linguine",
       "category": "pasta",
-      "ethnicity": "italian"
+      "ethnicity": "italian",
+      "barcode": "8076809523509"
     },
     {
       "id": 2,
       "name": "Massaman curry",
       "category": "curry",
-      "ethnicity": "thai"
+      "ethnicity": "thai",
+      "barcode": "8854404000829"
     },
     {
       "id": 3,
       "name": "Green curry",
       "category": "curry",
-      "ethnicity": "thai"
+      "ethnicity": "thai",
+      "barcode": "5010338303983"
     },
     {
       "id": 4,
       "name": "Ravioli Funghi",
       "category": "pasta",
-      "ethnicity": "italian"
+      "ethnicity": "italian",
+      "barcode": "8001665127585"
     },
     {
       "id": 5,
       "name": "Tuscan Soup",
       "category": "vegetarian",
-      "ethnicity": "italian"
+      "ethnicity": "italian",
+      "barcode": "5000169116562"
     },
     {
       "name": "Baguette",
       "category": "bread",
       "ethnicity": "french",
+      "barcode": "3222475471216",
       "id": 6
     },
     {
-      "name": "Cuban Sandwich",
-      "category": "sandwich",
-      "ethnicity": "cuban",
+      "name": "Macarons",
+      "category": "dessert",
+      "ethnicity": "french",
+      "barcode": "3270160664405",
       "id": 8
     }
   ]
